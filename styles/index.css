@@ -1,0 +1,22 @@
+#results{
+    width: 70%;
+    justify-content: right;
+    margin:auto;
+    margin-top:60px;
+}
+#results>div{
+    display: flex;
+    box-sizing: border-box;
+    border:1px solid black;
+    height: 150px;
+
+}
+img{
+    width: 200px;
+    height: 100%;
+    box-sizing: border-box;
+}
+#box{
+    display: flex;
+   
+}
